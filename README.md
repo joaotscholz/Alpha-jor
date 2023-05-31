@@ -1,5 +1,13 @@
-### Hi there 👋
+## Hello, welcome to my GitHub profile!  
 
+I am currently pursuing a degree in Statistics at the Federal University of Santa Maria. With a strong foundation in data science, I have acquired extensive knowledge through my research scholarship as a Machine Learning Engineer at Zeit, a local startup.
+
+I am dedicated to becoming a Computer Vision Engineer and actively working on specialization projects to further advance my expertise in this domain. These projects are aimed at expanding my skill set and gaining practical experience in order to contribute effectively to the field. 
+
+Feel free to explore my projects and contributions. I am excited to collaborate, learn, and contribute to the world of data and computer vision!
+
+Best regards,
+João Tomazetti Scholz.
 <!--
 **Alpha-jor/Alpha-jor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
